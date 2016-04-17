@@ -1,2 +1,2 @@
 # Computer-Graphics
-List of Programs for Computer Graphics Lab
+List of Program Screenshots for Computer Graphics Lab
